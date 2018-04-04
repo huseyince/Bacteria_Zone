@@ -1,5 +1,4 @@
 # Bacteria_Zone
----
 You are going to write a program that will simulate a bacteria habitat. The parameters of your habitat will
 be given in a text file (data.txt). Your program must read this file in text mode from your application folder. data.txt file includes information about your habitat and the bacteria capability to eat other bacteria.
 
