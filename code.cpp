@@ -98,15 +98,6 @@ int main(int argc, char const *argv[])
 			}
 		}
 
-		for (int y = 0; y < satir; y++)
-		{
-			for (int t = 0; t < sutun; t++)
-			{
-				matris[y][t] = '\0';
-				ekstraMatris[y][t] = '\0';
-			}
-		}
-
 		// Bakterileri başlangıç konumlarına yerleştirme
 		fscanf(cfPtr, "%s", sinama);
 		while (!feof(cfPtr)) {
