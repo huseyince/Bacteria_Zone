@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-// Author: Hüseyin ALTUNAKAYNAK
+// Author: Hüseyin ALTUNKAYNAK
 // Date: 07.05.2016
 // GCC 5.4.0
 // Version: 1.0
